@@ -1,0 +1,3 @@
+/usr/bin/php /home/web/wanggaobo/guanjia/index.php migratebuildings startMigrateBuildings
+
+/usr/bin/php /home/web/wanggaobo/guanjia/index.php migratebuildings migrateJungongBuildings
